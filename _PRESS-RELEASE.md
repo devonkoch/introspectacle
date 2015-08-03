@@ -21,22 +21,23 @@ Once the project moves into development, the press release can be used as a touc
 
   Share-frenzy millenials will have the ability to read each other's minds.
 
-  Market: share-frenzy millenials, but evenually everyone.  Users
-    * can quench the basic human need **to be understood** by knowing that someone is reading their introspections as they write it in real time.
-    * have the option of connecting with writers, forming ephemeral dialouges, and potentially revealing their identities to one another
+  Market: share-frenzy millenials, but evenually everyone.  Users 1) can quench the basic human need **to be understood** by knowing that someone is reading their introspections as they write it in real time and 2) have the option of connecting with writers, forming ephemeral dialouges, and potentially revealing their identities to one another.
 
 
 ### Summary ###
   > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  
   Most of the time, we think to ourselves, yet there exists a basic human need **to be understood**.  Sometimes our thoughts manifest as worries or fears, producing a cacophony, disrupting the being’s mental, emotional, physical and spiritual wellbeing. Sometimes, we’re inspired, in awe, and sense joyousness; these feelings project a symphony, similiar to the depiction’s of John Nash’s mind in “A Beautiful Mind”.  What’s it like to know someone is reading your thoughts while it’s being written?
 
 
 ### Problem ###
   > Describe the problem your product solves.
+  
   People want to feel like they belong; to be understood.
 
 ### Solution ###
   > Describe how your product elegantly solves the problem.
+  
   Introspectacle is a live-broadcasted journaling platform where they can liberally and censorlessly speak their mind.
 
 ### Quote from You ###
@@ -47,11 +48,16 @@ Once the project moves into development, the press release can be used as a touc
 
 ### How to Get Started ###
   > Describe how easy it is to get started.
-  Sign up, take a deep breathe, and spill your guts.
+  
+  Sign up, take a deep breathe, dive deep, and start writing.
 
 ### Customer Quote ###
   > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
 
+  "I enjoy the thrill of entering someone else's inner world" -Customer.
+
 
 ### Closing and Call to Action ###
   > Wrap it up and give pointers where the reader should go next.
+
+  Sign up **here**.
