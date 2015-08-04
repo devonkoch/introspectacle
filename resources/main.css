@@ -3,6 +3,15 @@
   width: 50%;
 }
 
-input[type="text"] {
-  border: none
+input, input:focus { 
+  border: none;
+  border-color: transparent;
+}
+
+.form-control {
+  border: none;
+}
+
+.pure-menu-has-children {
+  float: left;
 }
