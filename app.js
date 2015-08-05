@@ -1,7 +1,7 @@
 var express = require('express'),
     app = express(),
-    path = require('path');
-    mongoose = require('mongoose');
+    path = require('path'), 
+    mongoose = require('mongoose'),
     http = require('http').createServer(app),
     io = require('socket.io').listen(http),
     port = process.env.PORT || 3000;
@@ -39,10 +39,8 @@ io.sockets.on('connection', function(socket){
     })
 })
 
-// app.use(express.static(__dirname+'/public'));
-// app.use(express.static(__dirname+'/bower_components'));
-
-app.use(express.static(path.join(__.dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'bower_components')));
 
 app.get('/file.txt', function(req, res){
   res.send('I am not a file');
