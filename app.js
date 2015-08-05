@@ -13,6 +13,7 @@ mongoose.connect('mongodb://localhost/chat', function(err){
     throw err;
   } else {
     console.log('SuccessDB');
+
   }
 });
 
@@ -41,16 +42,3 @@ io.sockets.on('connection', function(socket){
 
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'bower_components')));
-
-app.get('/file.txt', function(req, res){
-  res.send('I am not a file');
-});
-
-
-app.get('/', function(req, res){
-  res.send('welcome home!');
-});
-
-app.get('/user/:username', function(req, res){
-  res.send(" "+req.params.username+" profile!");
-});
