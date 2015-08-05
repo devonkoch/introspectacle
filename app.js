@@ -42,8 +42,6 @@ io.sockets.on('connection', function(socket){
 // app.use(express.static(__dirname+'/public'));
 // app.use(express.static(__dirname+'/bower_components'));
 
-app.use(app.router);
-
 app.use(express.static(path.join(__.dirname, 'public')));
 
 app.get('/file.txt', function(req, res){
