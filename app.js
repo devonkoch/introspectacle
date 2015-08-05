@@ -1,7 +1,7 @@
 var express = require('express'),
     app = express(),
-    path = require('path'), 
-    mongoose = require('mongoose'),
+    path = require('path');
+    mongoose = require('mongoose');
     http = require('http').createServer(app),
     io = require('socket.io').listen(http),
     port = process.env.PORT || 3000;
@@ -40,5 +40,8 @@ io.sockets.on('connection', function(socket){
     })
 })
 
+
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'bower_components')));
+
+

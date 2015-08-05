@@ -9,14 +9,12 @@
     <script src="main.js"></script>
 </head>
 <body>
-  <h1>Introspectacle</h1>
+  <h3>Introspectacle</h3>
   <div ng-controller='ChatCtrl'>
     <div class='chatWrap'>
-      <ul>
-        <li ng-repeat='message in messages track by $index'>{{message}}</li>
-      </ul>
+      <h1 class='centered'> {{messages[messages.length - 1]}} </h1>
     </div>
-    <form ngSubmit='sendMessage()'>
+    <form ng-submit='sendMessage()'>
       <input type='text' ng-model='chat.message'/>
     </form>
   </div>

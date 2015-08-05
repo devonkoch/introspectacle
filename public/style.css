@@ -1,8 +1,20 @@
 .chatWrap {
-    height: 300px;
-    background-color: #e8e8e8;
+    height: 600px;
 }
 
 .chatWrap ul {
     list-style-type: none;
 }
+
+form {
+  bottom:0;
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
+
