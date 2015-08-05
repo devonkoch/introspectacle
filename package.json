@@ -1,10 +1,10 @@
 {
-  "name": "mvp",
+  "name": "introspectacle",
   "version": "0.0.1",
-  "description": "introspect.ing",
+  "private": true,
   "dependencies": {
-    "express": "^4.13.3",
-    "nodemon": "^1.4.0",
-    "socket.io": "^1.3.6"
+    "express": "4.13.3",
+    "mongoose": "^4.1.1",
+    "socket.io": "1.3.6"
   }
 }
