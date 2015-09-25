@@ -17,7 +17,6 @@ Once the project moves into development, the press release can be used as a touc
  -->
 
 ### Slogan ###
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
 
   Introspectacle allows college students the ability to read each other's minds.
 
@@ -25,38 +24,26 @@ Once the project moves into development, the press release can be used as a touc
 
 
 ### Summary ###
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
   
   Introspectacle is a live journaling platform where users censorlessly speak their minds.  Sometimes our thoughts manifest as worries or fears; othertimes we’re inspired, in awe, and sense joyousness.  What’s it like to know someone is reading your thoughts while it’s being written?  Users 1) can quench the basic human need **to be understood** by knowing that someone is reading their introspections as they write it in real time and 2) have the option of connecting with writers, forming ephemeral dialouges, and potentially revealing their identities to one another.
 
 ### Problem ###
-  > Describe the problem your product solves.
   
   People want to feel like they belong; to be understood.
 
 ### Solution ###
-  > Describe how your product elegantly solves the problem.
   
   Introspectacle provides a unique platform and community that allows users to broadcast a minimally-designed text-based stream of consciousness.
 
 ### Quote from You ###
-  > A quote from a spokesperson in your company.
 
-  "Here at Introspectacle, we have revolutionized the modern web-intimacy paradigm.  Introspectacle is Periscope for thoughts." -Devon Koch
+  "Introspectacle is Periscope for thoughts." -Devon Koch
 
 
 ### How to Get Started ###
-  > Describe how easy it is to get started.
   
-  Sign up, take a deep breathe, dive deep, and start writing.
+  Sign up, take a deep breathe, dive deep, and write.
 
 ### Customer Quote ###
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
 
-  "I enjoy the thrill of entering someone else's inner world" -customer.
-
-
-### Closing and Call to Action ###
-  > Wrap it up and give pointers where the reader should go next.
-
-  Sign up **here**.
+  "I obsess over the thrill of entering someone else's inner world." -Anonymous customer
